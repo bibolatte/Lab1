@@ -14,4 +14,9 @@ print(a)
 print(b)
 print(c)
 
+
 jemister=["alma", "banan", "almurt"]
+x, y, z = jemister
+print(x)
+print(y)
+print(z)

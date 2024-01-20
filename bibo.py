@@ -1,7 +1,7 @@
 if 5 > 2:
     print("five is greater than two")
 #this is a comment
-    
+
 
 x = 5
 y = "Bibo"
@@ -27,3 +27,15 @@ d = "Python "
 e = "is "
 f = "keremet"
 print(d + e + f)
+
+
+g = 5
+h = "John"
+print(g, h)
+
+
+k = "awesome"
+def myfunc():
+  print("Python is " + k)
+
+myfunc()

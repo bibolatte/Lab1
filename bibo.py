@@ -8,3 +8,10 @@ y = "Bibo"
 z=float(3)
 print(type(x))
 print(type(y))
+
+a, b, c = "Alma", "Banan", "Qiyar"
+print(a)
+print(b)
+print(c)
+
+jemister=["alma", "banan", "almurt"]

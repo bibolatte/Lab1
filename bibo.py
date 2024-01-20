@@ -9,6 +9,7 @@ z=float(3)
 print(type(x))
 print(type(y))
 
+
 a, b, c = "Alma", "Banan", "Qiyar"
 print(a)
 print(b)
@@ -20,3 +21,9 @@ x, y, z = jemister
 print(x)
 print(y)
 print(z)
+
+
+d = "Python "
+e = "is "
+f = "keremet"
+print(d + e + f)

@@ -37,5 +37,19 @@ print(g, h)
 k = "awesome"
 def myfunc():
   print("Python is " + k)
-
 myfunc()
+
+
+l = "awesomee"
+def myfunc():
+  l = "fantasticc"
+  print("Python iss" + l)
+myfunc()
+print("Python is " + l)
+
+
+def myfunc():
+  global m
+  m = "fantastic"
+myfunc()
+print("Python is " + m)
